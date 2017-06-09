@@ -1,2 +1,2 @@
-# template
-my initial template for web projects
+# OrgOne
+my initial commit
